@@ -1,0 +1,20 @@
+{
+    "train_samples": 7500,
+    "test_samples": 2500,
+    "contamination": 0.03386666666666667,
+    "precision": 0.136986301369863,
+    "recall": 0.11764705882352941,
+    "f1_score": 0.12658227848101267,
+    "roc_auc": 0.8269881865789794,
+    "average_precision": 0.15600594557782213,
+    "confusion_matrix": [
+        [
+            2352,
+            63
+        ],
+        [
+            75,
+            10
+        ]
+    ]
+}
